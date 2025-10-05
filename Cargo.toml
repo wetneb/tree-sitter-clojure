@@ -5,7 +5,7 @@ keywords = ["incremental", "parsing", "clojure", "tree-sitter"]
 categories = ["parsing", "text-editors"]
 repository = "https://github.com/jerielverissimo/tree-sitter-clojure"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 license = "MIT"
 
 [build-dependencies]
